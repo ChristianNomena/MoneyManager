@@ -1,0 +1,16 @@
+C:\Users\Christian\source\repos\ManageMoney\ManageMoney\bin\Release\ManageMoney.exe.config
+C:\Users\Christian\source\repos\ManageMoney\ManageMoney\bin\Release\ManageMoney.exe
+C:\Users\Christian\source\repos\ManageMoney\ManageMoney\bin\Release\ManageMoney.pdb
+C:\Users\Christian\source\repos\ManageMoney\ManageMoney\bin\Release\MySql.Data.dll
+C:\Users\Christian\source\repos\ManageMoney\ManageMoney\bin\Release\Google.Protobuf.dll
+C:\Users\Christian\source\repos\ManageMoney\ManageMoney\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Christian\source\repos\ManageMoney\ManageMoney\bin\Release\MySql.Data.xml
+C:\Users\Christian\source\repos\ManageMoney\ManageMoney\obj\Release\ManageMoney.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\ManageMoney\ManageMoney\obj\Release\ManageMoney.AuthForm.resources
+C:\Users\Christian\source\repos\ManageMoney\ManageMoney\obj\Release\ManageMoney.MainForm.resources
+C:\Users\Christian\source\repos\ManageMoney\ManageMoney\obj\Release\ManageMoney.Properties.Resources.resources
+C:\Users\Christian\source\repos\ManageMoney\ManageMoney\obj\Release\ManageMoney.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\ManageMoney\ManageMoney\obj\Release\ManageMoney.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\ManageMoney\ManageMoney\obj\Release\ManageMoney.csproj.CopyComplete
+C:\Users\Christian\source\repos\ManageMoney\ManageMoney\obj\Release\ManageMoney.exe
+C:\Users\Christian\source\repos\ManageMoney\ManageMoney\obj\Release\ManageMoney.pdb
